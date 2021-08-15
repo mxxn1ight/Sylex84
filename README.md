@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sylex84
+- 👀 I’m interested in creating telegram bots and back-end development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on big projects that are going to change our world
+- 📫 How to reach me write me here ryakovlev19@gmail.com
